@@ -1,2 +1,1 @@
-# Test
-测试项目
+System.out.print("hello,world");
